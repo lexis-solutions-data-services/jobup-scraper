@@ -18,13 +18,30 @@
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.6` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
 
 ---
 
 
 
 The Jobup.ch Scraper is a web scraping tool designed to extract job listings from Jobup.ch. It was created to make it easier for job seekers and recruiters to find relevant job postings in the Swiss job market and make data-driven decisions based on the extracted information.
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `jobup-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
+
+---
+
 
 ## Use Cases
 
